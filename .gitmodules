@@ -1,0 +1,6 @@
+[submodule "crow"]
+	path = crow
+	url = https://github.com/0872501D6/crow.git
+[submodule "assets/html"]
+	path = assets/html
+	url = https://github.com/0872501D6/startbootstrap-grayscale.git
